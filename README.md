@@ -10,5 +10,4 @@
     <li>Delete Movie</li>
 </ul>
 ![image](https://github.com/oliver1191/Movie-App/blob/master/Images/home.png)
-![image](https://github.com/oliver1191/Movie-App/blob/master/Images/home.png)
 
