@@ -10,8 +10,7 @@ Feature Support<br/>
     <li>Delete Movie</li>
 </ul>
 Picture Show<br>
-![image](https://github.com/oliver1191/Movie-App/blob/master/Images/home.png)
-![image](https://github.com/oliver1191/Cafe-Shop-Bot/blob/master/Images/Cafe%20Shop%20Bot%201.0.png)
+<image src="https://github.com/oliver1191/Movie-App/blob/master/Images/home.png"/>
 
 
 
