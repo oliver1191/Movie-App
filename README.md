@@ -9,6 +9,6 @@
     <li>Search Movie </li>
     <li>Delete Movie</li>
 </ul>
-![image](https://github.com/oliver1191/Movie-App/tree/master/Images/home.png)
-![image](https://github.com/oliver1191/Movie-App/tree/master/Images/index.png)
+![image](https://github.com/oliver1191/Movie-App/blob/master/Images/home.png)
+![image](https://github.com/oliver1191/Movie-App/blob/master/Images/home.png)
 
