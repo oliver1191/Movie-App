@@ -23,7 +23,7 @@ namespace HelloWord052701.Models
         public decimal Price { get; set; }
 
 
-        [Range(1, 10)]
+        [Range(1.0, 10.0)]
         public string Rating { get; set; }
         
     }
