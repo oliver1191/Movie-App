@@ -11,4 +11,4 @@
 </ul>
 ![image](https://github.com/oliver1191/Movie-App/tree/master/Images/home.png)
 ![image](https://github.com/oliver1191/Movie-App/tree/master/Images/index.png)
-![image]("index")
+
